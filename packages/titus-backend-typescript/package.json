@@ -21,7 +21,7 @@
     "@nearform/brokeneck-fastify": "^1.0.0-spinal.8",
     "@sinclair/typebox": "^0.20.5",
     "aws-sdk": "^2.810.0",
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "casbin": "^5.11.1",
     "close-with-grace": "^1.1.0",
     "dotenv": "^10.0.0",
